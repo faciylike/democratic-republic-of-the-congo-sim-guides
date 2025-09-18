@@ -71,3 +71,10 @@ layout: default
 *   **安全第一**：尽量避免在公开场合长时间使用手机，特别是在人多的市场或街头。快速处理完事情就收好，这是最基本的安全意识。
 
 　　在刚果金，一张本地手机卡是你连接世界、导航地图、处理紧急情况的生命线。虽然过程有点曲折，但一旦搞定，你会感谢自己的未雨绸缪。希望这份指南能让你在刚果金的通信之旅更加顺畅。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Democratic Republic Of The Congo eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/democratic-republic-of-the-congo-data-plans)
